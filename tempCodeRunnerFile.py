@@ -1,1 +1,1 @@
-break
+tests = int(input(""))
