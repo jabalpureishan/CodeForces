@@ -11,3 +11,9 @@ for i in range(tests):
         if sub in Set:
             count += 1
     print(count)
+
+
+
+
+
+
